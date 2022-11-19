@@ -1,0 +1,13 @@
+D:\desktop\Project Kareoke CayKhe\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\desktop\Project Kareoke CayKhe\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\desktop\Project Kareoke CayKhe\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\desktop\Project Kareoke CayKhe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fLoggins.resources
+D:\desktop\Project Kareoke CayKhe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fTableManager.resources
+D:\desktop\Project Kareoke CayKhe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\desktop\Project Kareoke CayKhe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLyQuanKaraoke.csproj.GenerateResource.cache
+D:\desktop\Project Kareoke CayKhe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLyQuanKaraoke.csproj.CoreCompileInputs.cache
+D:\desktop\Project Kareoke CayKhe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\desktop\Project Kareoke CayKhe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\desktop\Project Kareoke CayKhe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLyQuanKaraoke.csprojAssemblyReference.cache
+D:\desktop\Project Kareoke CayKhe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fAccoutProfile.resources
+D:\desktop\Project Kareoke CayKhe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fAdmin.resources
